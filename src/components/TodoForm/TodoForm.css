@@ -1,0 +1,11 @@
+.form {
+  margin-top: 20px;
+}
+
+.form__input {
+  width: 100%;
+}
+
+.form__btn {
+  margin-top: 10px;
+}
